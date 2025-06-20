@@ -1,1 +1,2 @@
 # BreakHis
+Developed machine learning models to classify 7,909 histopathology images from the BreakHis dataset (2,480 benign, 5,429 malignant) across multiple magnifications. Extracted statistical (e.g., mean intensity, thresholding) and texture-based features (LBP, GLCM metrics) to enhance model input. Achieved 77.1% accuracy and 0.83 AUC using Random Forest. Applied SHAP and LIME to explain model predictions, enabling transparency and clinical interpretability. This work supports the development of interpretable AI tools for early breast cancer detection.
